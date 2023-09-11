@@ -1,0 +1,2 @@
+# 2020 U.S. Voter Sentiments
+ In this research, I attempt to discuss how voter sentiment and Twitter language differ for different political stances and political topics. To accomplish this goal, I use machine learning and text analysis methods to study voter sentiments and political leanings from a sample of tweets from Oct 15, 2020 -Nov 8, 2020, a roughly two-week time period just before the 2020 U.S. Election date Nov 3, plus another week after the results of the election are announced.
